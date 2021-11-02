@@ -1,0 +1,14 @@
+E:\C# Tasklar\02.11.21RefOut\02.11.21RefOut\bin\Debug\netcoreapp3.1\02.11.21RefOut.exe
+E:\C# Tasklar\02.11.21RefOut\02.11.21RefOut\bin\Debug\netcoreapp3.1\02.11.21RefOut.deps.json
+E:\C# Tasklar\02.11.21RefOut\02.11.21RefOut\bin\Debug\netcoreapp3.1\02.11.21RefOut.runtimeconfig.json
+E:\C# Tasklar\02.11.21RefOut\02.11.21RefOut\bin\Debug\netcoreapp3.1\02.11.21RefOut.runtimeconfig.dev.json
+E:\C# Tasklar\02.11.21RefOut\02.11.21RefOut\bin\Debug\netcoreapp3.1\02.11.21RefOut.dll
+E:\C# Tasklar\02.11.21RefOut\02.11.21RefOut\bin\Debug\netcoreapp3.1\02.11.21RefOut.pdb
+E:\C# Tasklar\02.11.21RefOut\02.11.21RefOut\obj\Debug\netcoreapp3.1\02.11.21RefOut.csproj.AssemblyReference.cache
+E:\C# Tasklar\02.11.21RefOut\02.11.21RefOut\obj\Debug\netcoreapp3.1\02.11.21RefOut.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Tasklar\02.11.21RefOut\02.11.21RefOut\obj\Debug\netcoreapp3.1\02.11.21RefOut.AssemblyInfoInputs.cache
+E:\C# Tasklar\02.11.21RefOut\02.11.21RefOut\obj\Debug\netcoreapp3.1\02.11.21RefOut.AssemblyInfo.cs
+E:\C# Tasklar\02.11.21RefOut\02.11.21RefOut\obj\Debug\netcoreapp3.1\02.11.21RefOut.csproj.CoreCompileInputs.cache
+E:\C# Tasklar\02.11.21RefOut\02.11.21RefOut\obj\Debug\netcoreapp3.1\02.11.21RefOut.dll
+E:\C# Tasklar\02.11.21RefOut\02.11.21RefOut\obj\Debug\netcoreapp3.1\02.11.21RefOut.pdb
+E:\C# Tasklar\02.11.21RefOut\02.11.21RefOut\obj\Debug\netcoreapp3.1\02.11.21RefOut.genruntimeconfig.cache
